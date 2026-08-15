@@ -996,8 +996,7 @@ function App() {
         </h2>
 
         <p className="section-text">
-          Kisi bhi service par click karke
-          directly open karein.
+          Click on any service to access it directly.
         </p>
 
         <div className="service-grid">
@@ -1470,9 +1469,8 @@ function App() {
               </div>
 
               <p className="map-help">
-                📍 Location box me area/address
-                likho. Map automatically update
-                hoga.
+                📍 Enter your area/address in the location box. The map will update automatically.
+                
               </p>
 
               <button
