@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://smart-civic-platform.onrender.com";
 
 function getSavedUser() {
   try {
