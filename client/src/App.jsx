@@ -1922,7 +1922,7 @@ function App() {
                 </h3>
 
                 <p>
-                  Abhi koi update nahi hai.
+                  There is no update right now
                 </p>
 
               </div>
